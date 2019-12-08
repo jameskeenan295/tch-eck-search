@@ -14,3 +14,4 @@ Copy both dump files to where you are able to run this python script
 Usage:
 python3 tch-eck-search.py --eripv2 mtd5.dump --memdump mem.dump
 
+![tch eck search screenshot](eck_search_screenshot.png)
